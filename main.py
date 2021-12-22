@@ -11,9 +11,9 @@ import time
 # TODO Code besser kapseln / Funktionen
 # TODO Error-Handling noch ergänzen
 
-full_name = "Patrick Nürnberger"
-tum_user = "ge32sop"
-mail_adr = "nuernberger-patrick@web.de"
+full_name = "your name"
+tum_user = "username"
+mail_adr = "your email"
 minutes_refr = 10
 
 
